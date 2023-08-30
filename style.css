@@ -1,5 +1,5 @@
 body {
-	background: #1690A7;
+	background: #33a3a7;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -62,7 +62,7 @@ button:hover{
 
 .success {
    background: #D4EDDA;
-   color: #40754C;
+   color: #3e9e91;
    padding: 10px;
    width: 95%;
    border-radius: 5px;
